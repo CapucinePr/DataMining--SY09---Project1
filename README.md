@@ -1,3 +1,3 @@
-# DataMining--SY09---Project1
+# DataMining-SY09-Project1
 
 Unsupervised learning project on RStudio
